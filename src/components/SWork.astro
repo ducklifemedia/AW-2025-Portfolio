@@ -1,5 +1,6 @@
 ---
 import AWork from './AWork.astro'
+import dummyVideo from '/src/assets/works/Dummy.mp4'
 
 const videos = await Astro.glob<{ default: any }>('/src/assets/works/*.mp4')
 
@@ -92,7 +93,7 @@ for (let i = 1; i <= 14; i++) {
     projects.push({
       caption: `${project.title} - Video ${j + 1}`,
       site: project.site,
-      src: `/src/assets/works/Dummy.mp4`,
+      src: dummyVideo
     })
   }
 }
