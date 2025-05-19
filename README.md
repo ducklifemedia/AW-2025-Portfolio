@@ -20,7 +20,7 @@ To run the project locally:
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/AntoineW/public.wodniack.dev.git
+git clone https://github.com/AntoineW/AW-2025-Portfolio.git
 cd wodniack-portfolio
 
 # 2. Install dependencies
