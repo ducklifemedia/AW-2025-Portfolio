@@ -1,6 +1,6 @@
 {
-  "name": "AW Portfolio",
-  "short_name": "AW",
+  "name": "MyWebSite",
+  "short_name": "MySite",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
@@ -16,6 +16,6 @@
     }
   ],
   "theme_color": "#ffffff",
-  "background_color": "#f40c3f",
+  "background_color": "#ffffff",
   "display": "standalone"
 }
